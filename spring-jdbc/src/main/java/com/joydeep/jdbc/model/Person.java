@@ -1,7 +1,7 @@
 package com.joydeep.jdbc.model;
 
 import java.util.Date;
-
+//spring-jdbc
 public class Person {
    private int id;
    private String name;

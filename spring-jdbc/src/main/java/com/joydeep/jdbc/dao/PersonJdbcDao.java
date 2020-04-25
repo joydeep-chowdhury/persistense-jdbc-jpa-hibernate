@@ -11,7 +11,7 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
 import com.joydeep.jdbc.model.Person;
-
+//spring-jdbc
 @Repository
 public class PersonJdbcDao {
 	private JdbcTemplate template;

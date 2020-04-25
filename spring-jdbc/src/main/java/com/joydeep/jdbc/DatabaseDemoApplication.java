@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import com.joydeep.jdbc.dao.PersonJdbcDao;
 import com.joydeep.jdbc.model.Person;
-
+//spring-jdbc
 @SpringBootApplication
 public class DatabaseDemoApplication implements CommandLineRunner{
     private PersonJdbcDao pdao;
